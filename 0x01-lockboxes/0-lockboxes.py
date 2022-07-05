@@ -2,6 +2,7 @@
 
 """
 Write a method that determines if all the boxes can be opened.
+
 Prototype: def canUnlockAll(boxes)
 boxes is a list of lists
 A key with the same number as a box opens that box
